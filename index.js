@@ -30,6 +30,12 @@ class GoogleSheetSource {
                   {}
                 )
               })
+              nodes.forEach(function(node){
+                if (node.price) {
+                  var currentPrice = JSON.parse(node.price);
+                  node.price = currentPrice;
+                }
+              });
               nodes.map(value => {
                 collection.addNode(value)
               })

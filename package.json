@@ -8,12 +8,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/IHIutch/gridsome-source-google-sheets.git"
+    "url": "git://github.com/TheFSilver/gridsome-source-google-sheets.git"
   },
   "bugs": {
-    "url": "https://github.com/IHIutch/gridsome-source-google-sheets/issues"
+    "url": "https://github.com/TheFSilverSP/gridsome-source-google-sheets/issues"
   },
-  "homepage": "https://github.com/IHIutch/gridsome-source-google-sheets.git",
+  "homepage": "https://github.com/TheFSilver/gridsome-source-google-sheets.git",
   "license": "MIT",
   "keywords": [
     "gridsome",
